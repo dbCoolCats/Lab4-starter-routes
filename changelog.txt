@@ -12,3 +12,4 @@ V5.0	-	dunno now shows meme image.
 V6.0	-	Created gimme method in first.php, fixed issue #5
 V7.0	-	created bingo control, routing with regex
 V8.0	-	created wise control, routing with regex
+V9.0	-	Hook added and bleeped the bleep
