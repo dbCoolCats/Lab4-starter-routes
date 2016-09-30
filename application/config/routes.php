@@ -62,6 +62,7 @@ $route['dunno'] = function() {
 	readfile($source); // dish it
 	die(); // and we don't have to go any further
 };                 
+$route['^[a-zA-Z]{4}/bingo'] = 'bingo';
 
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
