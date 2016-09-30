@@ -50,10 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['sleep'] = 'first/zzz';
-<<<<<<< HEAD
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
-=======
-  
 $route['dunno'] = function() {
 	$source = './assets/images/surprise.jpg'; // an image you provide
 	// set the mime type for that image
@@ -62,8 +59,6 @@ $route['dunno'] = function() {
 	readfile($source); // dish it
 	die(); // and we don't have to go any further
 };                 
->>>>>>> upstream/develop
-
 
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
