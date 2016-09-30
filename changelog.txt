@@ -8,3 +8,5 @@ V1.0	-	Fixed first.php issue.
 V2.0	-	Fixed last.php issue.
 V3.0	-	Added route for sleep. Link now works for sleep.
 V4.0 	-	Fixed lock/em/up routing issue with wildcard calls.
+
+V6.0	-	dunno now shows meme image.
