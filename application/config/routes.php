@@ -53,6 +53,7 @@ $route['sleep'] = 'first/zzz';
 $route['show/(:num)'] = 'first/gimme/$1';
 
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
+$route['comp(\d+)/(.*)'] = 'wise/bingo';
 $route['dunno'] = function() {
 	$source = './assets/images/surprise.jpg'; // an image you provide
 	// set the mime type for that image
