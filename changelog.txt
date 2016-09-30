@@ -7,8 +7,6 @@ Daniel Lin
 V1.0	-	Fixed first.php issue.
 V2.0	-	Fixed last.php issue.
 V3.0	-	Added route for sleep. Link now works for sleep.
-<<<<<<< HEAD
-V4.0	-	Created gimme method in first.php, fixed issue #5
-=======
-V4.0	-	dunno now shows meme image.
->>>>>>> 03208463b6fcf1d5b27a1bf06154d109d7edaf9c
+V4.0 	-	Fixed lock/em/up routing issue with wildcard calls.
+V5.0	-	dunno now shows meme image.
+V6.0	-	Created gimme method in first.php, fixed issue #5
